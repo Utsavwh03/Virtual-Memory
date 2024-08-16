@@ -6,6 +6,10 @@
 *.ko
 *.obj
 *.elf
+process
+master
+mmu
+sched
 
 # Linker output
 *.ilk
